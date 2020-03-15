@@ -1,26 +1,9 @@
 ## Welcome To All Aspiring Doctors
 
-This is the website for Med Life Podcast, a podcast about getting into and succeeding in medical school. Here is 
+This is the website for Med Life Podcast, a podcast about getting into and succeeding in medical school. I have enjoyed cronicaling my journey and hopefully helping some people out along the way. Join me through the entire process, applying, acceptance, medical school, and more as I post short podcasts with tips and tricks I have learned in my journey to become a doctor. Keep an eye out for season 2, where I talk about medical school as an actual DO student starting this August. 
 
-## Listen here
+## Listen Here
 
-[link](https://anchor.fm/medlife)
+[Click here to listen to the podcast via Anchor](https://anchor.fm/medlife)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Thank You
